@@ -2,7 +2,6 @@
 
 ## Task 1
 ### Compile
-    ```bash
     g++ DynArr.cpp
     ./a.out
 ### Sample Run
