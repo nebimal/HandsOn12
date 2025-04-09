@@ -2,8 +2,6 @@
 
 ## Task 1
 **Usage**
-
-    ```bash
     g++ DynArr.cpp
     ./a.out
     
