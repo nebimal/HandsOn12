@@ -5,11 +5,9 @@
     ```bash
     g++ DynArr.cpp
     ./a.out
-### Output
-## Sample Run
+### Sample Run
 
   ```bash
-  $ ./DynamicArrayProgram 
   Enter integers to add (enter -1 to stop):
   3
   3
