@@ -2,6 +2,7 @@
 
 ## Task 1
 **Usage**
+
     g++ DynArr.cpp
     ./a.out
     
